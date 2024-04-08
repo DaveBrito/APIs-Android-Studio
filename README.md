@@ -1,1 +1,43 @@
 # APIs-Android-Studio
+
+Projeto realizado para a disciplina de `Programação para Dispositivos Moveis`. Como requerimento do nosso orientador, `Paulo Rogerio da Silva`, este projeto deve utilizar uma API para o Android Studio.
+
+# API OpenWeatherMap
+
+Este projeto utiliza a API [OpenWeatherMap](https://openweathermap.org/) para obter dados meteorológicos em tempo real. Certifique-se de criar uma conta e ter uma chave de API válida para acessar os recursos. Existe outras funções, mas devo mensionar que, outras funcionalidades, é necessário fazer um pagamento prévio para ter o acesso aos serviços e para receber o Token.   
+
+
+# Objetivo
+
+Esse projeto tem o objetivo de o usuário digitar o estado onde deseja verificar a situação da meteorologia, e receber os dados de maneira descritiva. 
+
+Exemplo: Temperatura , Umidade , Velocidade do Vento , Pressão , Sensação , Nebulosidade , Descrição e Clima Atual.
+
+
+# Funcionalidades Pagas
+
+1. Previsão do tempo atual e futuro para várias localidades.
+
+2. Dados históricos do tempo.
+
+3. Dados sobre poluição do ar.
+
+4. Índices de qualidade do ar.
+
+5. Dados sobre a qualidade da água.
+
+6. Dados sobre o tempo para satélites e estações meteorológicas.
+
+ # Tecnologias Utilizadas
+
+- Java
+- Android Studio
+- API OpenWeatherMap
+
+# Telas
+![Logo do Meu Projeto](https://github.com/DaveBrito/APIs-Android-Studio/raw/main/telainicial.png)
+
+
+
+
+
