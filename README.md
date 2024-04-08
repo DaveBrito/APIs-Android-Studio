@@ -36,8 +36,10 @@ Exemplo: Temperatura , Umidade , Velocidade do Vento , Pressão , Sensação , N
 
 # Telas
 <img src="https://github.com/DaveBrito/APIs-Android-Studio/raw/main/telainicial.png" width="50%" height="50%">
+<img src="https://github.com/DaveBrito/APIs-Android-Studio/raw/main/newyork.png" width="50%" height="50%">
 <img src="https://github.com/DaveBrito/APIs-Android-Studio/raw/main/saopaulo.png" width="50%" height="50%">
 <img src="https://github.com/DaveBrito/APIs-Android-Studio/raw/main/riogrande.png" width="50%" height="50%">
+
 
 
 
