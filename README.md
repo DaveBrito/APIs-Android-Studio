@@ -35,7 +35,8 @@ Exemplo: Temperatura , Umidade , Velocidade do Vento , Pressão , Sensação , N
 - API OpenWeatherMap
 
 # Telas
-![Logo do Meu Projeto](https://github.com/DaveBrito/APIs-Android-Studio/raw/main/telainicial.png)
+<img src="https://github.com/DaveBrito/APIs-Android-Studio/raw/main/telainicial.png" width="50%" height="50%">
+
 
 
 
