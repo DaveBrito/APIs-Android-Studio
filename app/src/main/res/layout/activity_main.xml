@@ -29,19 +29,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/etCity"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="13dp"
             android:ems="10"
             android:textColor="@color/white"
-            android:hint="Escreva o nome da cidade"
+            android:hint="Digite o nome da cidade aqui !"
+            android:textColorHint="#CCCCCC"
             android:inputType="textPersonName" />
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/etCountry"
-            android:layout_marginTop="10dp"
-            android:ems="10"
-            android:hint="Digite o CEP(Opcional)"
-            android:inputType="textPersonName" />
+
         
         <Button
             android:layout_width="match_parent"
