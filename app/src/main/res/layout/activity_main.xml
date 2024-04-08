@@ -25,17 +25,15 @@
         android:gravity="center"
         android:orientation="vertical" >
 
+
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/etCity"
-            android:layout_marginTop="13dp"
+            android:id="@+id/etCountry"
+            android:layout_marginTop="10dp"
             android:ems="10"
-            android:textColor="@color/white"
-            android:hint="Digite o nome da cidade aqui !"
-            android:textColorHint="#CCCCCC"
+            android:hint="Digite o nome da cidade"
             android:inputType="textPersonName" />
-
         
         <Button
             android:layout_width="match_parent"
