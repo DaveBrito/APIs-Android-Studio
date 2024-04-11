@@ -2,6 +2,10 @@
 
 Projeto realizado para a disciplina de `Programação para Dispositivos Moveis`. Como requerimento do nosso orientador, `Paulo Rogerio da Silva`, este projeto deve utilizar uma API RESTful para o Android Studio.
 
+# Membros
+• DAVI DE BRITO JUNIOR
+• PEDRO BORGES
+
 # API OpenWeatherMap
 
 Este projeto utiliza a API [OpenWeatherMap](https://openweathermap.org/) para obter dados meteorológicos em tempo real. Certifique-se de criar uma conta e ter uma chave de API válida para acessar os recursos. Existe outras funções, mas devo mensionar que, outras funcionalidades, é necessário fazer um pagamento prévio para ter o acesso aos serviços e para receber o Token.   
