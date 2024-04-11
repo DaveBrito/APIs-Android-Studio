@@ -4,6 +4,7 @@ Projeto realizado para a disciplina de `Programação para Dispositivos Moveis`.
 
 # Membros
 • DAVI DE BRITO JUNIOR
+
 • PEDRO BORGES
 
 # API OpenWeatherMap
