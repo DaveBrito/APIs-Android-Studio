@@ -2,10 +2,6 @@
 
 Projeto realizado para a disciplina de `Programação para Dispositivos Moveis`. Como requerimento do nosso orientador, `Paulo Rogerio da Silva`, este projeto deve utilizar uma API RESTful para o Android Studio.
 
-# Membros
-• DAVI DE BRITO JUNIOR
-
-• PEDRO BORGE DE JESUS
 
 # API OpenWeatherMap
 
