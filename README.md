@@ -1,8 +1,6 @@
 # APIs-Android-Studio
 
-Projeto realizado para a disciplina de `Programação para Dispositivos Moveis`. Como requerimento do nosso orientador, `Paulo Rogerio da Silva`, este projeto deve utilizar uma API RESTful para o Android Studio.
-
-
+Projeto criado e utilizado API RESTful junto com o Android Studio, realizando a captura de informações de temperatura climática da região desejada. Fornecendo acesso a dados precisos e atualizados de todo o mundo.
 
 # API OpenWeatherMap
 
